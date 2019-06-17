@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Copyright>A29b</Copyright>
+    <Description>Spell provide phrases which is only known you.</Description>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/A29b/Spell</RepositoryUrl>
+    <PackageTags>Identity Phrase Password Random Generator HocusPocus</PackageTags>
+    <PackageId>SpellAndHocusPocus</PackageId>
+    <Authors>A29b</Authors>
+    <Company>A29b</Company>
+    <Product>Spell</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
